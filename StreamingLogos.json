@@ -54,5 +54,21 @@
   {
     "title": "SkyShowtime",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/SkyShowtime.mp4"
+  },
+  {
+    "title": "Starz",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Starz.mp4"
+  },
+  {
+    "title": "Shudder",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Shudder.mp4"
+  },
+  {
+    "title": "MUBI",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/MUBI.mp4"
+  },
+  {
+    "title": "AMC+",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/AMC%2B.mp4"
   }
 ]
