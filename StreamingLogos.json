@@ -1,110 +1,172 @@
 [
   {
-    "title": "Netflix",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Netflix.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/netflix-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/netflix-square.png"
-  },
-  {
-    "title": "Disney+",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Disney%2B.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/disney-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/disney-square.png"
-  },
-  {
-    "title": "Prime Video",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Amazon%20Prime%20Video.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/primevideo-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/primevideo-square.png"
-  },
-  {
-    "title": "Apple TV",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Apple%20TV.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/appletv-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/appletv-square.png"
-  },
-  {
-    "title": "Crunchyroll",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Crunchyroll.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/crunchyroll-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/crunchyroll-square.png"
-  },
-  {
-    "title": "HBO Max",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/HBO%20Max.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hbomax-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hbomax-square.png"
-  },
-  {
-    "title": "Max",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Max.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/max-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/max-square.png"
-  },
-  {
-    "title": "Hulu",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/hulu.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hulu-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hulu-square.png"
-  },
-  {
-    "title": "Paramount+",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Paramount%2B.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/paramount-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/paramount-square.png"
-  },
-  {
-    "title": "Peacock",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/peacock.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/peacock-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/peacock-square.png"
-  },
-  {
-    "title": "Discovery+",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Discovery%2B.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/discoveryplus-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/discoveryplus-square.png"
-  },
-  {
-    "title": "BET+",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/BET%2B.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/bet-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/bet-square.png"
-  },
-  {
-    "title": "Curiosity Stream",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Curiosity%20Stream.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/curiositystream-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/curiositystream-square.png"
-  },
-  {
-    "title": "SkyShowtime",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/SkyShowtime.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/skyshowtime-square.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/skyshowtime-square.png"
-  },
-  {
-    "title": "STARZ",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Starz.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/STARZ.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/STARZ.png"
-  },
-  {
-    "title": "SHUDDER",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/SHUDDER.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/SHUDDER.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/SHUDDER.png"
-  },
-  {
-    "title": "MUBI",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/MUBI.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/MUBI.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/MUBI.png"
+    "title": "A&E",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/A%26E.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/A%26E.png"
   },
   {
     "title": "AMC+",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/AMC%2B.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/AMC+.png",
-    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/AMC+.png"
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/AMC%2B.png"
+  },
+  {
+    "title": "Acorn TV",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Acorn%20TV.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Acorn%20TV.png"
+  },
+  {
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Amazon%20Prime%20Video.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/primevideo.png"
+  },
+  {
+    "title": "Animal Planet",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Animal%20Planet.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Animal%20Planet.png"
+  },
+  {
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Apple%20TV.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/appletv.png"
+  },
+  {
+    "title": "BBC",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/BBC.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/BBC.png"
+  },
+  {
+    "title": "BET+",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/BET%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/bet.png"
+  },
+  {
+    "title": "BINGE",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/BINGE.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/BINGE.png"
+  },
+  {
+    "title": "Blumhouse",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Blumhouse.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Blumhouse.png"
+  },
+  {
+    "title": "Britbox",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Britbox.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Britbox.png"
+  },
+  {
+    "title": "Channel 4",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Channel%204.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Channel%204.png"
+  },
+  {
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Crunchyroll.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/crunchyroll.png"
+  },
+  {
+    "title": "Curiosity Stream",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Curiosity%20Stream.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/curiositystream.png"
+  },
+  {
+    "title": "Discovery+",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Discovery%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/discoveryplus.png"
+  },
+  {
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Disney%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/disney.png"
+  },
+  {
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/HBO%20Max.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hbomax.png"
+  },
+  {
+    "title": "HIDIVE",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/HIDIVE.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/HIDIVE.png"
+  },
+  {
+    "title": "Hayu",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Hayu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Hayu.png"
+  },
+  {
+    "title": "ITVX",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/ITVX.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/ITVX.png"
+  },
+  {
+    "title": "MUBI",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/MUBI.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/MUBI.png"
+  },
+  {
+    "title": "MagellanTV",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/MagellanTV.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/magllentv.png"
+  },
+  {
+    "title": "Max",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Max.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/max.png"
+  },
+  {
+    "title": "National Geographic",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/National%20Geographic.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/National%20Geographic.png"
+  },
+  {
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Netflix.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/netflix.png"
+  },
+  {
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Paramount%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/paramount.png"
+  },
+  {
+    "title": "SHUDDER",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/SHUDDER.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/SHUDDER.png"
+  },
+  {
+    "title": "SkyShowtime",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/SkyShowtime.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/skyshowtime.png"
+  },
+  {
+    "title": "Stan",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Stan.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Stan.png"
+  },
+  {
+    "title": "STARZ",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Starz.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/STARZ.png"
+  },
+  {
+    "title": "USA Live TV",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/USA%20Live%20TV.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/USA%20Live%20TV.png"
+  },
+  {
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hulu.png"
+  },
+  {
+    "title": "Peacock",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/peacock.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/peacock.png"
+  },
+  {
+    "title": "Videoland",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Videoland.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/videoland.png"
   }
 ]
