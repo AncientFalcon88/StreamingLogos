@@ -55,6 +55,11 @@
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Britbox.png"
   },
   {
+    "title": "Canal+",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Canal%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/refs/heads/main/canal.png"
+  },
+  {
     "title": "Channel 4",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Channel%204.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Channel%204.png"
@@ -95,14 +100,14 @@
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Hayu.png"
   },
   {
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hulu.png"
+  },
+  {
     "title": "ITVX",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/ITVX.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/ITVX.png"
-  },
-  {
-    "title": "MUBI",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/MUBI.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/MUBI.png"
   },
   {
     "title": "MagellanTV",
@@ -113,6 +118,11 @@
     "title": "Max",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Max.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/max.png"
+  },
+  {
+    "title": "MUBI",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/MUBI.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/MUBI.png"
   },
   {
     "title": "National Geographic",
@@ -128,6 +138,11 @@
     "title": "Paramount+",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/Paramount%2B.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/paramount.png"
+  },
+  {
+    "title": "Peacock",
+    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/peacock.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/peacock.png"
   },
   {
     "title": "SHUDDER",
@@ -153,16 +168,6 @@
     "title": "USA Live TV",
     "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/USA%20Live%20TV.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/USA%20Live%20TV.png"
-  },
-  {
-    "title": "Hulu",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/hulu.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hulu.png"
-  },
-  {
-    "title": "Peacock",
-    "videoURL": "https://raw.githubusercontent.com/AncientFalcon88/StreamingLogos/main/peacock.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/peacock.png"
   },
   {
     "title": "Videoland",
